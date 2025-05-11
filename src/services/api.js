@@ -1,4 +1,4 @@
-const API_URL = 'https://preguntados-backend.vercel.app/api';
+const API_URL = 'https://preguntados-backend.vercel.app/';
 
 export const api = {
   getQuestions: async (category) => {
